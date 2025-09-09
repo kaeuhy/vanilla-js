@@ -37,3 +37,21 @@
 - null 병합 연산자
 - 삼항 연산자
 ---
+
+---
+[조건문](https://www.notion.so/269d858c2baa80b2b6d8fc59e4eeff3f?source=copy_link)
+
+- 조건문
+- if 문
+- if-else 문
+- 중첩 조건문 & else if
+- switch/case 문
+---
+
+---
+[함수](https://www.notion.so/269d858c2baa80f8980bf86b24585dd9?source=copy_link)
+
+- 함수
+- 얼리 리턴 패턴
+- 코드의 흐름
+---
