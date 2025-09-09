@@ -10,3 +10,30 @@
 - 긴 변수명 표기법
 - 상수
 ---
+
+---
+[자료형과 형 변환](https://www.notion.so/269d858c2baa80b59425e236ff47c097?source=copy_link)
+
+- 자료형이란?
+- typeof 연산자
+- 숫자형
+- BigInt
+- String
+- Boolean
+- Null
+- Undefined
+- 형 변환
+---
+
+---
+[연산자](https://www.notion.so/269d858c2baa80e98db6e9ba03900911?source=copy_link)
+
+- 연산자란?
+- 산술 연산자
+- 대입 연산자
+- 비교 연산자
+- 연결 연산자
+- 논리 연산자
+- null 병합 연산자
+- 삼항 연산자
+---
