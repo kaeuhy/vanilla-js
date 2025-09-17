@@ -55,3 +55,34 @@
 - 얼리 리턴 패턴
 - 코드의 흐름
 ---
+
+---
+[스코프](https://www.notion.so/270d858c2baa80589d33fa33c91556f3?source=copy_link)
+
+- 전역 스코프 & 지역 스코프
+- 함수 스코프 & 블록 스코프
+- let & var 키워드
+---
+
+---
+[호이스팅](https://www.notion.so/270d858c2baa8017b350dbdadc109fe4?source=copy_link)
+
+- 함수 호이스팅
+- 변수 호이스팅
+---
+
+---
+[함수 표현식과 화살표 함수](https://www.notion.so/270d858c2baa801f9f58f717e6cf507e?source=copy_link)
+
+- 화살표 함수
+- 함수 선언식과 함수 표현식
+- 콜백 함수
+---
+
+---
+[객체](https://www.notion.so/270d858c2baa802598d1d897e6bf9cb1?source=copy_link)
+
+- 객체 생성
+- 객체 프로퍼티 & 값 사용, 추가, 수정, 삭제
+- 객체의 함수 프로퍼티
+---
